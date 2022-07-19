@@ -1,0 +1,66 @@
+/* Font */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* CSS style start here */
+
+.heading {
+    background-color: black;
+    background-position: center;
+    width: 80%;
+    height: 80vh;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading-text {
+    line-height: 30px;
+    width: 100%;
+    padding-left: 10%;
+}
+
+.heading-text h1 {
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+
+.heading-text p {
+    color: gainsboro;
+    font-size: 17px;
+
+}
+
+button {
+    background-color: red;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    height: 45px;
+}
+
+button a {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 30px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.heading-image {
+    width: 100%;
+    padding-right: 10%;
+
+
+}
+
+.heading-image img {
+    width: 450px;
+    height: 500px;
+    margin-bottom: -35px;
+}
